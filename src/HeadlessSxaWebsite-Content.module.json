@@ -6,9 +6,13 @@
         "includes": [
             {
                 "name": "sxa-content",
-                "path": "/sitecore/content/home",
+                "path": "/sitecore/content",
                 "scope": "descendantsOnly",
                 "rules": [
+                    {
+                        "path": "/Home",
+                        "scope": "ignored"
+                    },
                     {
                         "path": "/CMP",
                         "scope": "ignored"
