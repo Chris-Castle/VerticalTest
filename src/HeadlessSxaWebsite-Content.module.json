@@ -1,0 +1,20 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "HeadlessSxaWebsite-Content",
+    "references": [ "HeadlessSxaWebsite" ],
+    "items": {
+        "includes": [
+            {
+                "name": "sxa-content",
+                "path": "/sitecore/content/home",
+                "scope": "descendantsOnly",
+                "rules": [
+                    {
+                        "path": "/CMP",
+                        "scope": "ignored"
+                    }
+                ]
+            }
+        ]
+    }
+}
