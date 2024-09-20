@@ -2,7 +2,7 @@
 ID: "8f4f5eb1-6310-4236-9e56-7f23331ff57c"
 Parent: "5cb426f0-740b-43ad-80b3-9d6043ee4926"
 Template: "fae81bf9-1117-4f97-9133-00e752f41772"
-Path: /sitecore/content/Verticals/Financial/Home/business/Data/Questions 1
+Path: /sitecore/content/Verticals/Financial/Home/notbusiness/Data/Questions 1
 BranchID: "bba2c8f4-b940-4820-bf71-1b089bc5f86a"
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"

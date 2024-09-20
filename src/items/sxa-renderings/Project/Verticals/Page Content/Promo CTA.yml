@@ -33,7 +33,7 @@ SharedFields:
   Value: 
 - ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
   Hint: OtherProperties
-  Value: IsAutoDatasourceRendering=true&IsRenderingsWithDynamicPlaceholders=true
+  Value: IsAutoDatasourceRendering=false&IsRenderingsWithDynamicPlaceholders=true
 Languages:
 - Language: "de-DE"
   Fields:
@@ -56,7 +56,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "909c2df8-31f2-4d0c-9900-50e53ae1a802"
+      Value: "33c18c57-c6d2-4739-80fe-3fe7366393b0"
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

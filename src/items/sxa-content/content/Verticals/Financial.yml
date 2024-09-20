@@ -35,9 +35,13 @@ SharedFields:
   Value: "{A0EECF65-09AD-4A10-AE46-7DF70106CFE6}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f4798603-0134-4864-8ebf-6e567b5324bc"
+      Value: "64c75a32-c613-43f7-91a3-95ebec943645"

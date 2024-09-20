@@ -3,7 +3,6 @@ ID: "85664109-9059-459b-a079-f76e3fa09063"
 Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
 Template: "b8dc46d2-778c-45a5-8400-ac9b89f35ab3"
 Path: /sitecore/content/Verticals
-BranchID: "2d3805b9-3089-44f3-b952-d45c44add7f8"
 SharedFields:
 - ID: "102b58da-2a86-4953-b3cd-c9f91256b657"
   Hint: PlaceholderSettingsFolder
@@ -42,9 +41,13 @@ SharedFields:
   Value: "{8453C078-6D17-4817-9230-91654AFE69C6}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Verticals
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "156c852e-b722-43f3-8235-3c6b1dbb3750"
+      Value: "69d611e2-6a07-40f5-8fbd-84aeada3c66d"
