@@ -302,9 +302,6 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{124106DE-FB02-4B43-A521-A309FC75A5BC}"
-              p:after="r[@uid='{09CFD835-87F6-4D58-9681-9C6EA1A3228B}']" />
-            <r
               uid="{36E87C5B-94DF-4C70-827E-E88DCCD07907}">
               <p:d />
             </r>
@@ -312,6 +309,13 @@ Languages:
               uid="{B882746C-C313-4283-8F58-B9402BCF9C6A}">
               <p:d />
             </r>
+            <r
+              uid="{84BE4B41-3D46-4E43-ADA6-FB776B2CB95C}"
+              p:after="r[@uid='{124106DE-FB02-4B43-A521-A309FC75A5BC}']"
+              s:ds="local:/Data/Documents List 2"
+              s:id="{CCC3A815-5DE9-4529-BAD5-874548667D66}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=27"
+              s:ph="headless-main" />
             <r
               uid="{D54D53B4-1AA4-4998-9BDF-EB934C32CFB6}">
               <p:d />
@@ -341,7 +345,7 @@ Languages:
       Value: Financial
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3992e60d-4f25-4302-9d3b-e8d9da92b3af"
+      Value: "aaa4bd61-841f-446f-9529-6696ed33b1a8"
     - ID: "d77eab5a-d654-445f-b15c-d32283737e1f"
       Hint: Title
       Value: "PLAY! Financial"
