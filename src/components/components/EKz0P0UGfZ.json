@@ -1,0 +1,200 @@
+[
+  {
+    "libraryId": "generated",
+    "id": "3HnDEsuF0b",
+    "componentId": "EKz0P0UGfZ",
+    "name": "Small Version",
+    "description": "",
+    "status": "published",
+    "orderIdx": "07gPs",
+    "revision": 3,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: B8cvxChjAU */ .-grid--custom[data-instance-id=\"B8cvxChjAU\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"B8cvxChjAU\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"B8cvxChjAU\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: spacing Id: 1Pbz5auvuy Title: Large section Instance Id: B8cvxChjAU */ .-spacing--large-section[data-instance-id=\"B8cvxChjAU\"]:not(._._._._._._#_) { padding-top: 30px; padding-right: 30px; padding-bottom: 30px; padding-left: 30px; ---spacing--row-gap: 12px; ---spacing--column-gap: 12px; } .-spacing--large-section[data-instance-id=\"B8cvxChjAU\"] > *:not(._._._._._._#_) { ---layout--row-gap: 12px; ---layout--column-gap: 12px; } /* Data: {\"type\":\"spacing\",\"details\":{\"title\":\"Large section\",\"description\":\"\",\"id\":\"1Pbz5auvuy\",\"exampleContent\":null,\"slug\":\"large-section\",\"collectionId\":\"9zpuzADm9w\",\"instanceId\":\"B8cvxChjAU\"},\"props\":{\"paddingTop\":{\"value\":30,\"unit\":\"px\"},\"paddingBottom\":{\"value\":30,\"unit\":\"px\"},\"paddingLeft\":{\"value\":30,\"unit\":\"px\"},\"paddingRight\":{\"value\":30,\"unit\":\"px\"},\"rowGap\":{\"value\":12,\"unit\":\"px\"},\"columnGap\":{\"value\":12,\"unit\":\"px\"}}} */</style><section class=\"-grid--custom -has--background -spacing--large-section\" data-instance-id=\"B8cvxChjAU\"><div class=\"-card\"><h4 class=\"headline\">Navigating Cost and Price Dynamics in Volatile Markets</h4><button>WEBINAR SIGN-UP</button></div><picture class=\"-image--background\"><img src=\"https://chc-fruit.sitecoresandbox.cloud/api/public/content/b38980af1d9d41ffae6e05c8d5bc943d?v=09761c93\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-10-02T13:34:34.898Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-10-02T13:36:22.031Z",
+    "modifiedBy": {
+      "id": "63c71ee3fdfc61dc2bb22c32",
+      "name": "Christopher Castle",
+      "givenName": "Christopher",
+      "familyName": "Castle",
+      "email": "chris.castle@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "3HnDEsuF0b",
+    "componentId": "EKz0P0UGfZ",
+    "name": "Small Version",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "07gPs",
+    "revision": 3,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: B8cvxChjAU */ .-grid--custom[data-instance-id=\"B8cvxChjAU\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"B8cvxChjAU\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"B8cvxChjAU\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: spacing Id: 1Pbz5auvuy Title: Large section Instance Id: B8cvxChjAU */ .-spacing--large-section[data-instance-id=\"B8cvxChjAU\"]:not(._._._._._._#_) { padding-top: 30px; padding-right: 30px; padding-bottom: 30px; padding-left: 30px; ---spacing--row-gap: 12px; ---spacing--column-gap: 12px; } .-spacing--large-section[data-instance-id=\"B8cvxChjAU\"] > *:not(._._._._._._#_) { ---layout--row-gap: 12px; ---layout--column-gap: 12px; } /* Data: {\"type\":\"spacing\",\"details\":{\"title\":\"Large section\",\"description\":\"\",\"id\":\"1Pbz5auvuy\",\"exampleContent\":null,\"slug\":\"large-section\",\"collectionId\":\"9zpuzADm9w\",\"instanceId\":\"B8cvxChjAU\"},\"props\":{\"paddingTop\":{\"value\":30,\"unit\":\"px\"},\"paddingBottom\":{\"value\":30,\"unit\":\"px\"},\"paddingLeft\":{\"value\":30,\"unit\":\"px\"},\"paddingRight\":{\"value\":30,\"unit\":\"px\"},\"rowGap\":{\"value\":12,\"unit\":\"px\"},\"columnGap\":{\"value\":12,\"unit\":\"px\"}}} */</style><section class=\"-grid--custom -has--background -spacing--large-section\" data-instance-id=\"B8cvxChjAU\"><div class=\"-card\"><h4 class=\"headline\">Navigating Cost and Price Dynamics in Volatile Markets</h4><button>WEBINAR SIGN-UP</button></div><picture class=\"-image--background\"><img src=\"https://chc-fruit.sitecoresandbox.cloud/api/public/content/b38980af1d9d41ffae6e05c8d5bc943d?v=09761c93\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-10-02T13:34:34.898Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-10-02T13:36:22.031Z",
+    "modifiedBy": {
+      "id": "63c71ee3fdfc61dc2bb22c32",
+      "name": "Christopher Castle",
+      "givenName": "Christopher",
+      "familyName": "Castle",
+      "email": "chris.castle@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "3HnDEsuF0b",
+    "componentId": "EKz0P0UGfZ",
+    "name": "Small Version",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "07gPs",
+    "revision": 3,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: B8cvxChjAU */ .-grid--custom[data-instance-id=\"B8cvxChjAU\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"B8cvxChjAU\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"B8cvxChjAU\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */ /* --- */  /* Type: spacing Id: 1Pbz5auvuy Title: Large section Instance Id: B8cvxChjAU */ .-spacing--large-section[data-instance-id=\"B8cvxChjAU\"]:not(._._._._._._#_) { padding-top: 30px; padding-right: 30px; padding-bottom: 30px; padding-left: 30px; ---spacing--row-gap: 12px; ---spacing--column-gap: 12px; } .-spacing--large-section[data-instance-id=\"B8cvxChjAU\"] > *:not(._._._._._._#_) { ---layout--row-gap: 12px; ---layout--column-gap: 12px; } /* Data: {\"type\":\"spacing\",\"details\":{\"title\":\"Large section\",\"description\":\"\",\"id\":\"1Pbz5auvuy\",\"exampleContent\":null,\"slug\":\"large-section\",\"collectionId\":\"9zpuzADm9w\",\"instanceId\":\"B8cvxChjAU\"},\"props\":{\"paddingTop\":{\"value\":30,\"unit\":\"px\"},\"paddingBottom\":{\"value\":30,\"unit\":\"px\"},\"paddingLeft\":{\"value\":30,\"unit\":\"px\"},\"paddingRight\":{\"value\":30,\"unit\":\"px\"},\"rowGap\":{\"value\":12,\"unit\":\"px\"},\"columnGap\":{\"value\":12,\"unit\":\"px\"}}} */</style><section class=\"-grid--custom -has--background -spacing--large-section\" data-instance-id=\"B8cvxChjAU\"><div class=\"-card\"><h4 class=\"headline\">Navigating Cost and Price Dynamics in Volatile Markets</h4><button>WEBINAR SIGN-UP</button></div><picture class=\"-image--background\"><img src=\"https://chc-fruit.sitecoresandbox.cloud/api/public/content/b38980af1d9d41ffae6e05c8d5bc943d?v=09761c93\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-10-02T13:34:34.898Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-10-02T13:36:22.031Z",
+    "modifiedBy": {
+      "id": "63c71ee3fdfc61dc2bb22c32",
+      "name": "Christopher Castle",
+      "givenName": "Christopher",
+      "familyName": "Castle",
+      "email": "chris.castle@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "fURvPLNwgI",
+    "componentId": "EKz0P0UGfZ",
+    "name": "Name",
+    "description": "",
+    "status": "published",
+    "orderIdx": "03qKK",
+    "revision": 6,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: m4FHbAJPnO */ .-grid--custom[data-instance-id=\"m4FHbAJPnO\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"m4FHbAJPnO\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 7; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"m4FHbAJPnO\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":7},\"order\":0}]}} */</style><section class=\"-grid--custom -has--background\" data-instance-id=\"m4FHbAJPnO\"><div class=\"-card\"><h4 class=\"headline\">Navigating Cost and Price Dynamics in Volatile Markets</h4><button>REGISTER NOW FOR THE WEBINAR</button></div><picture class=\"-image--background\"><img src=\"https://chc-fruit.sitecoresandbox.cloud/api/public/content/b38980af1d9d41ffae6e05c8d5bc943d?v=09761c93\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-10-02T13:20:08.787Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-10-02T13:36:22.057Z",
+    "modifiedBy": {
+      "id": "63c71ee3fdfc61dc2bb22c32",
+      "name": "Christopher Castle",
+      "givenName": "Christopher",
+      "familyName": "Castle",
+      "email": "chris.castle@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "fURvPLNwgI",
+    "componentId": "EKz0P0UGfZ",
+    "name": "Name",
+    "description": "",
+    "status": "staged",
+    "orderIdx": "03qKK",
+    "revision": 6,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: m4FHbAJPnO */ .-grid--custom[data-instance-id=\"m4FHbAJPnO\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"m4FHbAJPnO\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 7; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"m4FHbAJPnO\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":7},\"order\":0}]}} */</style><section class=\"-grid--custom -has--background\" data-instance-id=\"m4FHbAJPnO\"><div class=\"-card\"><h4 class=\"headline\">Navigating Cost and Price Dynamics in Volatile Markets</h4><button>REGISTER NOW FOR THE WEBINAR</button></div><picture class=\"-image--background\"><img src=\"https://chc-fruit.sitecoresandbox.cloud/api/public/content/b38980af1d9d41ffae6e05c8d5bc943d?v=09761c93\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-10-02T13:20:08.787Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-10-02T13:36:22.057Z",
+    "modifiedBy": {
+      "id": "63c71ee3fdfc61dc2bb22c32",
+      "name": "Christopher Castle",
+      "givenName": "Christopher",
+      "familyName": "Castle",
+      "email": "chris.castle@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png"
+    }
+  },
+  {
+    "libraryId": "generated",
+    "id": "fURvPLNwgI",
+    "componentId": "EKz0P0UGfZ",
+    "name": "Name",
+    "description": "",
+    "status": "saved",
+    "orderIdx": "03qKK",
+    "revision": 6,
+    "model": "",
+    "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: m4FHbAJPnO */ .-grid--custom[data-instance-id=\"m4FHbAJPnO\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"m4FHbAJPnO\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 1; grid-column-end: 7; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"m4FHbAJPnO\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":1},\"to\":{\"row\":6,\"column\":7},\"order\":0}]}} */</style><section class=\"-grid--custom -has--background\" data-instance-id=\"m4FHbAJPnO\"><div class=\"-card\"><h4 class=\"headline\">Navigating Cost and Price Dynamics in Volatile Markets</h4><button>REGISTER NOW FOR THE WEBINAR</button></div><picture class=\"-image--background\"><img src=\"https://chc-fruit.sitecoresandbox.cloud/api/public/content/b38980af1d9d41ffae6e05c8d5bc943d?v=09761c93\" /></picture></section>",
+    "diff": {},
+    "breakpointIds": null,
+    "datasourceIds": [],
+    "isEmbeddable": false,
+    "forkOriginId": null,
+    "forkOriginRevision": 0,
+    "forkedAt": null,
+    "classList": [
+      "-theme--default"
+    ],
+    "createdAt": "2024-10-02T13:20:08.787Z",
+    "deletedAt": null,
+    "modifiedAt": "2024-10-02T13:36:22.057Z",
+    "modifiedBy": {
+      "id": "63c71ee3fdfc61dc2bb22c32",
+      "name": "Christopher Castle",
+      "givenName": "Christopher",
+      "familyName": "Castle",
+      "email": "chris.castle@sitecore.com",
+      "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png"
+    }
+  }
+]

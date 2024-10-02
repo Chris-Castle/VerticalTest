@@ -7,7 +7,7 @@ SharedFields:
 - ID: "edf38721-e3f4-4a5f-b94b-44b9749ef0fb"
   Hint: Image1
   Value: |
-    <image mediaid="{1FC53620-6DA2-4341-98FD-4782C564070C}" alt="PLAY! Finance" height="" width="" hspace="" vspace="" />
+    <image mediaid="2cc09bf7-614a-451f-9370-a05a3bf5479a" />
 Languages:
 - Language: en
   Versions:
@@ -41,7 +41,7 @@ Languages:
         <link linktype="external" url="https://www.sitecore.com/legal" target="" text="Terms of Use" title="" class=""/>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c4799270-339a-4407-89b3-2749e6fb33b3"
+      Value: "966892e5-2b8c-4f07-81c9-7a37e939230c"
     - ID: "92612ddf-b3fd-4597-a655-de6da2eb553f"
       Hint: Text3
       Value: |

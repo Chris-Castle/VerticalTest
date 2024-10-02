@@ -1,0 +1,54 @@
+﻿---
+ID: "32026dff-f2cf-43e1-9ffe-1f6098b7162e"
+Parent: "485cfc23-fece-47e0-b82c-e349e47ed11c"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/Financial/Data/Promo CTAs/Gen AI
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="544c560a-976b-42c8-b466-d434ecc9a74e" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Discover Technology's Next Frontier
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: Generative AI
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" querystring="" id="{FB9B938E-DF02-46E7-9354-613D29E0B4AC}" anchor="" target="" title="" linktype="internal" text="Read more" url="/Verticals/Financial/Home/News/closing-the-wealth-gap" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96c5b04b-cdb1-4c1b-a37e-2afbed97fea5"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: 
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: Everest Group is the resource you need to keep up with the transformative technology of Generative AI and how it is rapidly affecting business and how people work.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Réduire l'écart de richesse
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" querystring="" id="{FB9B938E-DF02-46E7-9354-613D29E0B4AC}" anchor="" target="" title="" linktype="internal" text="En savoir plus" url="/Verticals/Financial/Home/News/closing-the-wealth-gap" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c8960fc-01ce-4c8c-a5be-70be68000583"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: Des conseils pratiques pour créer des voies équitables de croissance des revenues.

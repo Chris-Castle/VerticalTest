@@ -1,0 +1,20 @@
+﻿---
+ID: "e13ee637-68e9-430d-a4f1-382b9d88de81"
+Parent: "5109a19b-e647-4ef6-9b82-c6d8645fed58"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/Financial/Home/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><h1>A Commitment to You Getting It Right</h1><p>Everest Group is a research firm that applies research to people’s day-to-day business problems. We help business leaders confidently navigate today’s market challenges, driving maximized operational and financial performance and transformative experiences.</p><p style="padding-top:10px;">Our deep expertise and tenacious research focused on technology, business processes, and engineering through the lenses of talent, sustainability, and sourcing delivers precise and action-oriented guidance.</p><p style="padding-top:10px;">Our problem-solving, forward-looking approach is designed around your journey, so you can make better business decisions.</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ae51764-0648-4282-9b99-42b54fbea2b4"
