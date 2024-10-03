@@ -15,7 +15,7 @@ SharedFields:
   Value: Services
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "chc-vert-test2-c5d8pdrkjeml9gu6hndkdw-services.vercel.app"
+  Value: "chc-vertical-0jz4nli6euci2oq2uvzgw-services.vercel.app"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Services
@@ -35,7 +35,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1ec03d9c-5bca-4cc2-a1fe-77bea6b52140"
+      Value: "383cd8a9-b478-4886-9e8b-77ce7d4bccc9"
     - ID: "96cffc48-0bd5-4f70-9b36-d49c844d51ef"
       Hint: Theme
       Value: Services

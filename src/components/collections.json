@@ -142,9 +142,9 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2024-10-02T13:20:00.969Z",
-        "stagedAt": "2024-10-02T13:36:22.057Z",
-        "publishedAt": "2024-10-02T13:36:22.057Z",
-        "modifiedAt": "2024-10-02T13:36:22.057Z",
+        "stagedAt": "2024-10-02T15:23:13.249Z",
+        "publishedAt": "2024-10-02T15:23:13.249Z",
+        "modifiedAt": "2024-10-02T15:23:13.249Z",
         "modifiedBy": {
           "id": "63c71ee3fdfc61dc2bb22c32",
           "name": "Christopher Castle",
@@ -166,8 +166,8 @@
               "xsmall": "3HnDEsuF0b"
             },
             "orderIdx": "",
-            "createdAt": "2024-10-02T13:20:08.459Z",
-            "modifiedAt": "2024-10-02T13:20:08.459Z"
+            "createdAt": "2024-10-02T15:21:59.641Z",
+            "modifiedAt": "2024-10-02T15:21:59.641Z"
           }
         ]
       }
