@@ -1,0 +1,13 @@
+﻿---
+ID: "7a09f4cd-2d67-4ebc-852c-1c431fff76ac"
+Parent: "4c301832-2aa1-4f19-ae59-4ff5f3d2336a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Financial/Home/News/My New Article/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca1a129e-1df7-4dad-b9cf-e5b5980291b2"
