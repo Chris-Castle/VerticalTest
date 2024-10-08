@@ -132,6 +132,43 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "EKz0P0UGfZ",
+        "collectionId": "default",
+        "name": "Home Banner",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2024-10-02T13:20:00.969Z",
+        "stagedAt": "2024-10-02T13:36:22.057Z",
+        "publishedAt": "2024-10-02T13:36:22.057Z",
+        "modifiedAt": "2024-10-07T13:57:45.158Z",
+        "modifiedBy": {
+          "id": "63c71ee3fdfc61dc2bb22c32",
+          "name": "Christopher Castle",
+          "email": "chris.castle@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png",
+          "givenName": "Christopher",
+          "familyName": "Castle"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "EKz0P0UGfZ",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2024-10-07T13:47:27.236Z",
+            "modifiedAt": "2024-10-07T13:47:27.236Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "lBFJxcCFBz",
         "collectionId": "default",
         "name": "promo cta",
@@ -155,60 +192,7 @@
           "givenName": "Christopher",
           "familyName": "Castle"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "lBFJxcCFBz",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2024-10-04T17:49:46.593Z",
-            "modifiedAt": "2024-10-04T17:49:46.593Z"
-          }
-        ]
-      },
-      {
-        "libraryId": "generated",
-        "id": "EKz0P0UGfZ",
-        "collectionId": "default",
-        "name": "Home Banner",
-        "description": "",
-        "status": "published",
-        "versionCount": 2,
-        "stagedVersionCount": 2,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [],
-        "createdAt": "2024-10-02T13:20:00.969Z",
-        "stagedAt": "2024-10-02T13:36:22.057Z",
-        "publishedAt": "2024-10-02T15:23:13.249Z",
-        "modifiedAt": "2024-10-02T15:23:13.249Z",
-        "modifiedBy": {
-          "id": "63c71ee3fdfc61dc2bb22c32",
-          "name": "Christopher Castle",
-          "email": "chris.castle@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/813e06dc4218c02fb673cb821e482813?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fch.png",
-          "givenName": "Christopher",
-          "familyName": "Castle"
-        },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "EKz0P0UGfZ",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {
-              "small": "3HnDEsuF0b",
-              "medium": "3HnDEsuF0b",
-              "xsmall": "3HnDEsuF0b"
-            },
-            "orderIdx": "",
-            "createdAt": "2024-10-03T20:25:42.11Z",
-            "modifiedAt": "2024-10-03T20:25:42.11Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
