@@ -9,6 +9,11 @@ import {
   useSitecoreContext,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import useVisibility from 'src/hooks/useVisibility';
+import PdfViewerModal from '../PdfViewerModal';
+
+interface ModalExampleProps {
+  fileUrl: string;
+}
 
 interface Fields {
   Title1: Field<string>;
@@ -48,6 +53,11 @@ export const Default = (props: DocumentsListProps): JSX.Element => {
     delay?: number;
   }) => {
     const [isVisible, domRef] = useVisibility(delay);
+
+    if (!link.value?.href) {
+      return null; // Skip rendering if the link is invalid
+    }
+
     return (
       <div
         className={`col  ${!isPageEditing ? `fade-section ${isVisible ? 'is-visible' : ''}` : ''}`}
@@ -58,7 +68,8 @@ export const Default = (props: DocumentsListProps): JSX.Element => {
           <div className="text-container">
             <Link field={link} />
             <span className="subtitle">
-              <Text field={subtitle} />
+              <Text field={subtitle} /> |&nbsp;
+              <PdfViewerModal fileUrl={link.value.href} linkLabel="View PDF" />
             </span>
           </div>
         </div>
@@ -76,7 +87,7 @@ export const Default = (props: DocumentsListProps): JSX.Element => {
           <Text field={props.fields?.Title1} />
         </div>
         <div className="documents-container">
-          <div className="row row-cols-1 row-cols-xl-2 gx-4 justify-content-center">
+          <div className="row row-cols-1 row-cols-xl-2 gx-4">
             <DocumentItem
               image={props.fields?.Image1}
               subtitle={props.fields?.Subtitle1}
@@ -102,6 +113,13 @@ export const Default = (props: DocumentsListProps): JSX.Element => {
               delay={1500}
             />
           </div>
+          {/*
+          <div>
+            <PdfViewerModal fileUrl="https://www.capgemini.com/wp-content/uploads/2024/05/Everest_Group_-_Intelligent_Process_Automation__IPA__Solutions_PEAK_Matrix_Assessment_2024_-_Focus_on_Capgemini.pdf" linkLabel="View Document" />
+            <PdfViewerModal fileUrl="https://example.com/anothersample.pdf" linkLabel="Open Another PDF" />
+            <PdfViewer pdfUrl="https://www.capgemini.com/wp-content/uploads/2024/05/Everest_Group_-_Intelligent_Process_Automation__IPA__Solutions_PEAK_Matrix_Assessment_2024_-_Focus_on_Capgemini.pdf" />
+          </div>
+          */}
         </div>
       </div>
     </div>
