@@ -11,10 +11,6 @@ import {
 import useVisibility from 'src/hooks/useVisibility';
 import PdfViewerModal from '../PdfViewerModal';
 
-interface ModalExampleProps {
-  fileUrl: string;
-}
-
 interface Fields {
   Title1: Field<string>;
   Subtitle1: Field<string>;
@@ -113,13 +109,6 @@ export const Default = (props: DocumentsListProps): JSX.Element => {
               delay={1500}
             />
           </div>
-          {/*
-          <div>
-            <PdfViewerModal fileUrl="https://www.capgemini.com/wp-content/uploads/2024/05/Everest_Group_-_Intelligent_Process_Automation__IPA__Solutions_PEAK_Matrix_Assessment_2024_-_Focus_on_Capgemini.pdf" linkLabel="View Document" />
-            <PdfViewerModal fileUrl="https://example.com/anothersample.pdf" linkLabel="Open Another PDF" />
-            <PdfViewer pdfUrl="https://www.capgemini.com/wp-content/uploads/2024/05/Everest_Group_-_Intelligent_Process_Automation__IPA__Solutions_PEAK_Matrix_Assessment_2024_-_Focus_on_Capgemini.pdf" />
-          </div>
-          */}
         </div>
       </div>
     </div>
